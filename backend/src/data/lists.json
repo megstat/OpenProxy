@@ -50,5 +50,9 @@
   {
     "url": "https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/master/socks5.txt",
     "type": "socks5"
+  },
+  {
+    "url": "https://rcloak.com/api/proxies/raw?protocol=all",
+    "type": "all"
   }
 ]
